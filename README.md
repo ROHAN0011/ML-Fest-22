@@ -1,2 +1,1 @@
-# ML-Fest-22
-### DSC VIT ML fest'22 Training
+### DSC VIT ML Fest'22 Training
